@@ -1,0 +1,5 @@
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorUtilities\obj\Debug\CalculatorUtilities.csprojResolveAssemblyReference.cache
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorUtilities\bin\Debug\CalculatorUtilities.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorUtilities\bin\Debug\CalculatorUtilities.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorUtilities\obj\Debug\CalculatorUtilities.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorUtilities\obj\Debug\CalculatorUtilities.pdb

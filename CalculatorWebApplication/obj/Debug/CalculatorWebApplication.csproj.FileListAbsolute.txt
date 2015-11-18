@@ -1,0 +1,12 @@
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\CalculatorWebApplication.dll.config
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\CalculatorWebApplication.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\CalculatorWebApplication.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\WcfServiceCalculator.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\CalculatorApplication.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\WcfServiceCalculator.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\CalculatorApplication.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.csprojResolveAssemblyReference.cache
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\CalculatorUtilities.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorWebApplication\bin\CalculatorUtilities.pdb

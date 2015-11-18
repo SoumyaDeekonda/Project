@@ -1,0 +1,10 @@
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\obj\Debug\WcfServiceCalculator.csprojResolveAssemblyReference.cache
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\bin\WcfServiceCalculator.dll.config
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\bin\WcfServiceCalculator.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\bin\WcfServiceCalculator.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\obj\Debug\WcfServiceCalculator.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\obj\Debug\WcfServiceCalculator.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\bin\CalculatorApplication.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\bin\CalculatorApplication.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\bin\CalculatorUtilities.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\WcfServiceCalculator\bin\CalculatorUtilities.pdb

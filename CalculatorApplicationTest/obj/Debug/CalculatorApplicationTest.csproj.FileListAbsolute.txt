@@ -1,0 +1,7 @@
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorApplicationTest\obj\Debug\CalculatorApplicationTest.csprojResolveAssemblyReference.cache
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorApplicationTest\bin\Debug\CalculatorApplicationTest.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorApplicationTest\bin\Debug\CalculatorApplicationTest.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorApplicationTest\bin\Debug\CalculatorApplication.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorApplicationTest\bin\Debug\CalculatorApplication.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorApplicationTest\obj\Debug\CalculatorApplicationTest.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\CalculatorApplicationTest\obj\Debug\CalculatorApplicationTest.pdb

@@ -1,0 +1,7 @@
+c:\soumya\practice2\Calculator\CalculatorApplication\UtilityTest\bin\Debug\UtilityTest.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\UtilityTest\bin\Debug\UtilityTest.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\UtilityTest\obj\Debug\CalculatorUtilitiesTest.csprojResolveAssemblyReference.cache
+c:\soumya\practice2\Calculator\CalculatorApplication\UtilityTest\obj\Debug\UtilityTest.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\UtilityTest\obj\Debug\UtilityTest.pdb
+c:\soumya\practice2\Calculator\CalculatorApplication\UtilityTest\bin\Debug\CalculatorUtilities.dll
+c:\soumya\practice2\Calculator\CalculatorApplication\UtilityTest\bin\Debug\CalculatorUtilities.pdb
